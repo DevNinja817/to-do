@@ -1,0 +1,10 @@
+Instructions
+
+1. Install 'npm' (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+2. Install Dependencies
+
+- run npm init -y
+- run npm i -D nodemon (D for development package) (Nodemon deals with the updates on the server.js file)
+- run npm i -S express axios (We need express to handle requests and server-side features)
+- run npm i -S axios (We need axios to handle our HTTP requests)
