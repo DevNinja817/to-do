@@ -43,4 +43,4 @@ The app will now be running at `http://localhost:3000`
 
 ## License
 
-This project is licensed under the GNU General Public License v2.0. See [LICENSE.md](LICENSE.md) for more details.
+This project is licensed under the GNU General Public License v2.0. 
