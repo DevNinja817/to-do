@@ -36,7 +36,6 @@ The app will now be running at `http://localhost:3000`
 
 - [Node.js](https://nodejs.org/en/) - JS runtime 
 - [Express](https://expressjs.com/) - Web framework
-- [EJS](https://ejs.co/) - Templating 
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - Database
 
 ## License
