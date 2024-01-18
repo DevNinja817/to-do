@@ -42,3 +42,5 @@ The app will now be running at `http://localhost:3000`
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - Database
 
 ## License
+
+This project is licensed under the GNU General Public License v2.0. See [LICENSE.md](LICENSE.md) for more details.
