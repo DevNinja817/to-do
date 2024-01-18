@@ -8,3 +8,5 @@ Instructions
 - run npm i -D nodemon (D for development package) (Nodemon deals with the updates on the server.js file)
 - run npm i -S express axios (We need express to handle requests and server-side features)
 - run npm i -S axios (We need axios to handle our HTTP requests)
+
+3. Let me know once you've done that, then we'll focus on setting up our files.
