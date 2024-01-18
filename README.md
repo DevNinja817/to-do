@@ -18,8 +18,6 @@ You will need the following installed:
 - npm
 - MongoDB
 
-You will need a MongoDB Atlas cluster set up for storing data.
-
 ### Installing
 
 1. Clone the repository
