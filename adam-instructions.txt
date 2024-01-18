@@ -2,11 +2,15 @@ Instructions
 
 1. Install 'npm' (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
+NOTE: this is all through the terminal. Install 'npm' locally on your machine.
+
 2. Install Dependencies
 
 - run npm init -y
 - run npm i -D nodemon (D for development package) (Nodemon deals with the updates on the server.js file)
 - run npm i -S express axios (We need express to handle requests and server-side features)
 - run npm i -S axios (We need axios to handle our HTTP requests)
+
+NOTE: this is through the terminal on VS Code.
 
 3. Let me know once you've done that, then we'll focus on setting up our files.
